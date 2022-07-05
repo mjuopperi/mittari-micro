@@ -1,0 +1,10 @@
+// Copy this file to config.h and fill in the values.
+
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define WIFI_SSID ""
+#define WIFI_PW ""
+#define SERVER_ADDRESS
+
+#endif
